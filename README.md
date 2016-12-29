@@ -1,6 +1,6 @@
 
-#Q-Learning-Framework
-This is a general framework that could be tweaked to run your own Q-learning RL algorithms. 
+#QLB - Q Learning Based Optimal Energy Management Bot.
+The standalone python file funcitons using the data generated NN_Solar_Predictor folder. It can also be tweaked to run your own Q-learning RL algorithms. 
 
 ##Required
 It is implemented in python 2.7. It contains an example which will put you on track for twisting the framework to suit your purpose.
